@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.easyar.samples.helloarvideo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 允许程序获取网络状态 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 允许程序访问WiFi网络信息 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 允许程序读写手机状态和身份 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 允许程序访问CellID或WiFi热点来获取粗略的位置 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:name="cn.easyar.samples.helloarvideo.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="AR旅游"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="cn.easyar.samples.helloarvideo.MainActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="unspecified" />
+        <activity android:name="cn.easyar.samples.helloarvideo.Main2Activity" />
+        <activity android:name="cn.easyar.samples.helloarvideo.SeekActivity" />
+
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="651df88c1edd5ea3d264b7efa980f326" />
+
+        <service android:name="com.amap.api.location.APSService" />
+
+        <activity android:name="cn.easyar.samples.helloarvideo.ui.activity.LoginActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="cn.easyar.samples.helloarvideo.ui.activity.BaseActivity" />
+    </application>
+
+</manifest>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\EasyAR\\EasyAR_SDK_2.2.0_Basic_Samples_Android_2018-03-06\\HelloARVideo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\user\\Desktop\\EasyAR\\EasyAR_SDK_2.2.0_Basic_Samples_Android_2018-03-06\\HelloARVideo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\a002arapp\\HelloARVideo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\user\\Desktop\\a002arapp\\HelloARVideo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
