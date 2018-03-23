@@ -83,7 +83,8 @@ public class ARVideo
             }
         } else if (status == VideoStatus.Completed) {
             if (found) {
-                player.play();
+                player.pause();//完成时停止最后一帧
+               // player.play();   视频播放完成后再播放一次
             }
         }
     }
@@ -95,7 +96,7 @@ public class ARVideo
             player.play();
         }
     }
-    public void onLost()
+    public void onLost()//调用三次
     {
         found = false;
         if (prepared) {

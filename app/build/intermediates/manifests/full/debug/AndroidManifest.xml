@@ -26,6 +26,7 @@
         android:debuggable="true"
         android:icon="@mipmap/icon"
         android:label="AR旅游"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
             android:name="cn.easyar.samples.helloarvideo.MainActivity"

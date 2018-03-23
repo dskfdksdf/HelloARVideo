@@ -1,4 +1,4 @@
-#Fri Mar 23 09:47:05 CST 2018
+#Fri Mar 23 10:27:55 CST 2018
 base.0=C\:\\Users\\user\\Desktop\\a002arapp\\HelloARVideo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

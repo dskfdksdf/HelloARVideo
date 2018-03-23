@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Mar 23 09:47:07 CST 2018
+#Fri Mar 23 10:27:56 CST 2018
 56.path=lib/armeabi-v7a/libwtbt800.so
 5.base=C\:\\Users\\user\\Desktop\\a002arapp\\HelloARVideo\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
 42.base=C\:\\Users\\user\\Desktop\\a002arapp\\HelloARVideo\\app\\build\\intermediates\\assets\\debug
