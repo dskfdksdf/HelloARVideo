@@ -42,7 +42,7 @@ public class Main2Activity extends Activity implements GeocodeSearch.OnGeocodeSe
     App app;
     AMap aMap = null;
     Marker marker;
-    TextView textar;
+    TextView textar,myposition;
     BitmapDescriptor bitmapDescriptor;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -58,12 +58,29 @@ public class Main2Activity extends Activity implements GeocodeSearch.OnGeocodeSe
             aMap = mMapView.getMap();//这里还是为空
            // Log.e("xxx","aMap "+aMap);
         }
-        textar=(TextView)findViewById(R.id.textar);
+        textar=(TextView)findViewById(R.id.textar);myposition=(TextView)findViewById(R.id.myposition);
         textar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent=new Intent(Main2Activity.this,MainActivity.class);
                 startActivity(intent);
+            }
+        });
+
+        //重新定位  10句
+        myposition.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                myLocationStyle.myLocationType(MyLocationStyle.LOCATION_TYPE_LOCATE) ;//定位一次，且将视角移动到地图中心点。
+                myLocationStyle.showMyLocation(true);
+                aMap.setMyLocationEnabled(true);// 设置为true表示启动显示定位蓝点，false表示隐藏定位蓝点并不进行定位，默认是false。
+                mUiSettings = aMap.getUiSettings();
+                aMap.moveCamera(CameraUpdateFactory.zoomTo(16));
+                mUiSettings.setZoomPosition(1);
+                mUiSettings.setMyLocationButtonEnabled(false); //显示默认的定位按钮
+                mUiSettings.setScaleControlsEnabled(true);//控制比例尺控件是否显示
+                aMap.setMyLocationEnabled(true);// 可触发定位并显示当前位置
+                aMap.setMyLocationStyle(myLocationStyle);//设置定位蓝点的Style
             }
         });
         Bitmap b = BitmapFactory.decodeResource(getResources(),R.drawable.ease_icon_marka);

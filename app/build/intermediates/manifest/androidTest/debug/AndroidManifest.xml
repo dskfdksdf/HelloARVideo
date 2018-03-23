@@ -13,7 +13,7 @@
         android:label="Tests for cn.easyar.samples.helloarvideo"
         android:targetPackage="cn.easyar.samples.helloarvideo" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 

@@ -7,6 +7,7 @@
     android:layout_height="match_parent"
     tools:context="cn.easyar.samples.helloarvideo.ui.activity.LoginActivity">
     <LinearLayout
+        android:layout_marginTop="20dp"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1">
@@ -15,17 +16,23 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@drawable/login1" />
+            android:src="@drawable/img_03" />
 
 
     </LinearLayout>
 
+    <!--<fragment
+        tools:layout="@layout/fragment_login"
+        android:name="cn.easyar.samples.helloarvideo.ui.fragment.Login"
+        android:layout_weight="3"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" />-->
 
     <FrameLayout
         android:id="@+id/logincontent"
+        android:layout_weight="3"
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="3">
+        android:layout_height="0dp"></FrameLayout>
 
-    </FrameLayout>
+
 </LinearLayout>

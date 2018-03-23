@@ -3,39 +3,61 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\libs\EasyAR.jar"
+        jar="C:\Users\user\Desktop\EasyAR\EasyAR_SDK_2.2.0_Basic_Samples_Android_2018-03-06\HelloARVideo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="a927dd0d114d0323e6cdabaa7bb91be57c83ba9e">
-        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\EasyAR_19d834a1551b769ec9b28e248a4a5b90ba839c5a.jar" />
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\user\Desktop\EasyAR\EasyAR_SDK_2.2.0_Basic_Samples_Android_2018-03-06\HelloARVideo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_e040f09e720df371f10f46e8a11603f33340efa8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\libs\AMap_Search_V5.5.0_20171107.jar"
+        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\libs\AMap_Location_V3.6.1_20171012.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.2"
-        sha1="b7fc2c582458f3eddc00b4594510793e8f70935e">
-        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\AMap_Search_V5.5.0_20171107_81ace480502d683d156e6826f753d5e96e70d1d7.jar" />
+        revision="23.0.1"
+        sha1="538dbe4979c1a69aa5e15862a245288a585335ea">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\AMap_Location_V3.6.1_20171012_30afba6b12d77200c686e8e99a95d0c8728da8dd.jar" />
     </item>
     <item
         is-multidex="false"
         jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\libs\Android_Map3D_SDK_V5.5.0_20171107.jar"
         jumboMode="false"
+        min-sdk-version="17"
         optimize="true"
-        revision="25.0.2"
+        revision="26.0.2"
         sha1="b96174c376eb87e16ad49c9d5fb4d3dca086aa73">
-        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\Android_Map3D_SDK_V5.5.0_20171107_8c847996cc87ad1cd5b0f28b85f371871725b046.jar" />
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\transforms\preDex\release\3.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\libs\AMap_Search_V5.5.0_20171107.jar"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\cfa0054820eb00d5b6432b37c3742b78\jars\classes.jar"
         jumboMode="false"
+        min-sdk-version="17"
         optimize="true"
-        revision="23.0.1"
-        sha1="b7fc2c582458f3eddc00b4594510793e8f70935e">
-        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\AMap_Search_V5.5.0_20171107_81ace480502d683d156e6826f753d5e96e70d1d7.jar" />
+        revision="26.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\libs\EasyAR.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a927dd0d114d0323e6cdabaa7bb91be57c83ba9e">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\2f935d83f1384a8d27984fa1116929f1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\transforms\preDex\release\10.jar" />
     </item>
     <item
         is-multidex="false"
@@ -48,48 +70,23 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\libs\AMap_Location_V3.6.1_20171012.jar"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\d91b82f96f0296c0ba2adde64f09ef7d\jars\classes.jar"
         jumboMode="false"
+        min-sdk-version="17"
         optimize="true"
-        revision="23.0.1"
-        sha1="538dbe4979c1a69aa5e15862a245288a585335ea">
-        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\AMap_Location_V3.6.1_20171012_30afba6b12d77200c686e8e99a95d0c8728da8dd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_c9d851df4907e646ea4d73c7418e47748f2587b9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\EasyAR\EasyAR_SDK_2.2.0_Basic_Samples_Android_2018-03-06\HelloARVideo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
+        revision="26.0.2"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="C:\Users\user\Desktop\EasyAR\EasyAR_SDK_2.2.0_Basic_Samples_Android_2018-03-06\HelloARVideo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_e040f09e720df371f10f46e8a11603f33340efa8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_3cae0217c55a6e589a8304605b6b4957ca6faeab.jar" />
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\transforms\preDex\release\6.jar" />
     </item>
     <item
         is-multidex="false"
         jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
         jumboMode="false"
+        min-sdk-version="17"
         optimize="true"
-        revision="23.0.1"
+        revision="26.0.2"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="C:\Users\user\Desktop\EasyAR\EasyAR_SDK_2.2.0_Basic_Samples_Android_2018-03-06\HelloARVideo\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_5129f8bde69b8e9f927fc544f89ecaf4d60c953a.jar" />
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\transforms\preDex\release\12.jar" />
     </item>
     <item
         is-multidex="false"
@@ -102,48 +99,13 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\libs\Android_Map3D_SDK_V5.5.0_20171107.jar"
+        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\libs\AMap_Location_V3.6.1_20171012.jar"
         jumboMode="false"
+        min-sdk-version="17"
         optimize="true"
-        revision="23.0.1"
-        sha1="b96174c376eb87e16ad49c9d5fb4d3dca086aa73">
-        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\Android_Map3D_SDK_V5.5.0_20171107_8c847996cc87ad1cd5b0f28b85f371871725b046.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
-        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_75373d6594fbdf5c2513b7782821520b45bc4125.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_9e6cac68e10cd83894bc004cc5328e6aecc7838d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\EasyAR\EasyAR_SDK_2.2.0_Basic_Samples_Android_2018-03-06\HelloARVideo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="C:\Users\user\Desktop\EasyAR\EasyAR_SDK_2.2.0_Basic_Samples_Android_2018-03-06\HelloARVideo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_7111be68116a99f4547eecaeab0cb0ed809433d1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\libs\EasyAR.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a927dd0d114d0323e6cdabaa7bb91be57c83ba9e">
-        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\EasyAR_19d834a1551b769ec9b28e248a4a5b90ba839c5a.jar" />
+        revision="26.0.2"
+        sha1="538dbe4979c1a69aa5e15862a245288a585335ea">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\transforms\preDex\release\1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -156,21 +118,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_d1a337fefa9f592ed452dc4310327bec67f7aac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\libs\Android_Map3D_SDK_V5.5.0_20171107.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b96174c376eb87e16ad49c9d5fb4d3dca086aa73">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\Android_Map3D_SDK_V5.5.0_20171107_8c847996cc87ad1cd5b0f28b85f371871725b046.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\user\Desktop\EasyAR\EasyAR_SDK_2.2.0_Basic_Samples_Android_2018-03-06\HelloARVideo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
         <dex dex="C:\Users\user\Desktop\EasyAR\EasyAR_SDK_2.2.0_Basic_Samples_Android_2018-03-06\HelloARVideo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_a31d72488d9a1730766bc8ba6768ee36f2191d78.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\libs\Volley.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
-        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\Volley_f4c37acb8cc9cc41e88fcd57bce56e46a0f52483.jar" />
     </item>
     <item
         is-multidex="false"
@@ -183,6 +154,61 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\2f935d83f1384a8d27984fa1116929f1\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\EasyAR\EasyAR_SDK_2.2.0_Basic_Samples_Android_2018-03-06\HelloARVideo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\user\Desktop\EasyAR\EasyAR_SDK_2.2.0_Basic_Samples_Android_2018-03-06\HelloARVideo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_7111be68116a99f4547eecaeab0cb0ed809433d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_3cae0217c55a6e589a8304605b6b4957ca6faeab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\libs\EasyAR.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a927dd0d114d0323e6cdabaa7bb91be57c83ba9e">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\EasyAR_19d834a1551b769ec9b28e248a4a5b90ba839c5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\user\Desktop\EasyAR\EasyAR_SDK_2.2.0_Basic_Samples_Android_2018-03-06\HelloARVideo\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_5129f8bde69b8e9f927fc544f89ecaf4d60c953a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\libs\Android_Map3D_SDK_V5.5.0_20171107.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b96174c376eb87e16ad49c9d5fb4d3dca086aa73">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\Android_Map3D_SDK_V5.5.0_20171107_8c847996cc87ad1cd5b0f28b85f371871725b046.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\user\Desktop\EasyAR\EasyAR_SDK_2.2.0_Basic_Samples_Android_2018-03-06\HelloARVideo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -192,12 +218,106 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\a1d54005ac69835935660a3ba00f55cb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_d1a337fefa9f592ed452dc4310327bec67f7aac7.jar" />
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_9e6cac68e10cd83894bc004cc5328e6aecc7838d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\libs\AMap_Search_V5.5.0_20171107.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b7fc2c582458f3eddc00b4594510793e8f70935e">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\AMap_Search_V5.5.0_20171107_81ace480502d683d156e6826f753d5e96e70d1d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\libs\EasyAR.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a927dd0d114d0323e6cdabaa7bb91be57c83ba9e">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\EasyAR_19d834a1551b769ec9b28e248a4a5b90ba839c5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\libs\Volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\Volley_f4c37acb8cc9cc41e88fcd57bce56e46a0f52483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_c9d851df4907e646ea4d73c7418e47748f2587b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\libs\AMap_Search_V5.5.0_20171107.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b7fc2c582458f3eddc00b4594510793e8f70935e">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_75373d6594fbdf5c2513b7782821520b45bc4125.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\131fa76942b5ad2eebf3b845411284a1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\libs\Volley.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\libs\AMap_Search_V5.5.0_20171107.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b7fc2c582458f3eddc00b4594510793e8f70935e">
+        <dex dex="C:\Users\user\Desktop\a002arapp\HelloARVideo\app\build\intermediates\pre-dexed\debug\AMap_Search_V5.5.0_20171107_81ace480502d683d156e6826f753d5e96e70d1d7.jar" />
     </item>
 
 </items>

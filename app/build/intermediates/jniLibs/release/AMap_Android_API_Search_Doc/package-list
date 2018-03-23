@@ -1,0 +1,14 @@
+com.amap.api.services.busline
+com.amap.api.services.cloud
+com.amap.api.services.core
+com.amap.api.services.district
+com.amap.api.services.geocoder
+com.amap.api.services.help
+com.amap.api.services.nearby
+com.amap.api.services.poisearch
+com.amap.api.services.road
+com.amap.api.services.route
+com.amap.api.services.routepoisearch
+com.amap.api.services.share
+com.amap.api.services.traffic
+com.amap.api.services.weather

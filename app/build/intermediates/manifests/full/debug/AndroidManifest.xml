@@ -23,6 +23,7 @@
     <application
         android:name="cn.easyar.samples.helloarvideo.App"
         android:allowBackup="true"
+        android:debuggable="true"
         android:icon="@mipmap/icon"
         android:label="AR旅游"
         android:theme="@style/AppTheme" >

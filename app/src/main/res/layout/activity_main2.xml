@@ -13,73 +13,48 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true" />
 
-    <android.support.v7.widget.CardView
-        android:id="@+id/card_view"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        app:cardCornerRadius="10dp"
-        app:cardBackgroundColor="@color/colorAccent"
-        app:cardElevation="8dp"
-        app:contentPadding="5dp"
-        android:layout_margin="10dp">
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:gravity="center">
-          <!--  <ImageView
-                android:id="@+id/ig_man"
-                android:layout_width="0dp"
-                android:layout_weight="1"
+            <RelativeLayout
+                android:layout_marginTop="20dp"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/et_search"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="30dp"
+                    android:gravity="center_vertical"
+                    android:background="@drawable/img_search"
+                    android:hint="查找地点、公交、地铁"
+                    android:onClick="seek"/>
+            </RelativeLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/reman"/>-->
-            <TextView
-                android:id="@+id/et_search"
-                android:layout_width="0dp"
-                android:layout_weight="4"
-                android:layout_height="wrap_content"
-                android:paddingLeft="10dp"
-                android:hint="查找地点、公交、地铁"
-                android:onClick="seek"/>
-           <!-- <ImageView
-                android:id="@+id/ig_search"
-                android:layout_width="0dp"
-                android:layout_weight="1"
-                android:layout_height="wrap_content"
-                android:src="@drawable/voice"/>-->
-        </LinearLayout>
-    </android.support.v7.widget.CardView>
-    <android.support.v7.widget.CardView
-        android:id="@+id/card_view2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        app:cardCornerRadius="10dp"
-        android:layout_marginBottom="5dp"
-        app:cardBackgroundColor="@color/colorAccent"
-        android:layout_alignParentBottom="true">
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:gravity="center">
-         <!--   <ImageView
-                android:layout_width="0dp"
-                android:layout_weight="1"
-                android:layout_height="wrap_content"
-                android:src="@drawable/gddt"/>-->
-            <TextView
-                android:id="@+id/textar"
-                android:layout_width="0dp"
-                android:layout_weight="4"
-                android:layout_height="wrap_content"
-                android:gravity="center_horizontal"
-                android:paddingLeft="10dp"
-                android:hint="AR扫描"/>
-           <!-- <ImageView
-                android:layout_width="0dp"
-                android:layout_weight="1"
-                android:layout_height="wrap_content"
-                android:src="@drawable/voice"/>-->
-        </LinearLayout>
-    </android.support.v7.widget.CardView>
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="50dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true">
+                <TextView
+                    android:id="@+id/myposition"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/reman"
+                    android:textColor="#f00"
+                    android:layout_gravity="start"
+                    android:gravity="start"
+                    >
+
+                </TextView>
+                <TextView
+                    android:id="@+id/textar"
+                    android:background="@drawable/button_scan_style"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"/>
+            </LinearLayout>
+
+
 </RelativeLayout>
